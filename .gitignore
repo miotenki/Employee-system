@@ -1,0 +1,36 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Build folders
+build/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+.vs/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+employees.txt
+*.json
+app.dSYM/Contents/
+
+app
