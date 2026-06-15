@@ -6,6 +6,7 @@
 #include <fstream>
 
 //s\first try of gitpush
+// trying git clone
 
 using namespace std;
 
